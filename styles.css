@@ -12,18 +12,31 @@ body {
   
   img,
   .gallery-image {
-    border-radius: 5px;
+    border-radius: 2px;
     border: 25px solid white;
+    border-bottom: 125px solid white;
     margin: 1rem;
   }
 
   input {
-      border-radius: .5rem;
       background-color:whitesmoke;
       height: 1rem;
       width: 24rem;
   }
 
-  button {
-      border-radius: .5rem;
+  #search {
+      padding: 10px;
+      border: none;
+      box-shadow:  2px 2px 2px black;
+  }
+
+  #submit {
+      padding: 10px;
+      border: none;
+      margin: 0 0 0 10px;
+      box-shadow: 2px 2px 2px black;
+  }
+
+  #submit:hover {
+      background-color: gainsboro;
   }
