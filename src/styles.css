@@ -48,3 +48,9 @@ body {
 #submit:active{
     background-color: white;
 }
+
+footer {
+    text-align: center;
+    font-family: Arial;
+    margin: 2rem;
+}
