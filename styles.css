@@ -44,3 +44,7 @@ body {
   #submit:hover {
       background-color: gainsboro;
   }
+
+#submit:active{
+    background-color: white;
+}
