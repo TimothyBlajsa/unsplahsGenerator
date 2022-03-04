@@ -18,6 +18,10 @@ body {
     margin: 1rem;
   }
 
+  img {
+      background-image: url(./textured-paper.png)
+  }
+
   input {
       background-color:whitesmoke;
       height: 1rem;
