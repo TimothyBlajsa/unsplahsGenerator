@@ -3,6 +3,7 @@ const numItemsToGenerate = 1; //how many photos you want to display
 const imageWidth = 480;    //image width in pixels
 const imageHeight = 480;   //image height in pixels
 const query = 'chicken';
+
 //const collectionID = 928423  //Beach & Coastal, the collection ID from the original url
 const galleryContainer = document.querySelector('.gallery-container')
 function renderGalleryItem(randomNumber){
