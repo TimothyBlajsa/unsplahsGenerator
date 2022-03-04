@@ -7,9 +7,23 @@ body {
     width: 100%;
     margin-bottom: 30px;
     text-align: center;
+    margin: 1rem;
   }
   
-  img {
+  img,
+  .gallery-image {
     border-radius: 5px;
-    border: 3px solid white;
+    border: 25px solid white;
+    margin: 1rem;
+  }
+
+  input {
+      border-radius: .5rem;
+      background-color:whitesmoke;
+      height: 1rem;
+      width: 24rem;
+  }
+
+  button {
+      border-radius: .5rem;
   }
